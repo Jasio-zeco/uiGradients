@@ -1530,6 +1530,10 @@
         "colors": ["#d4fc79", "#96e6a1"]
     },
     {
+        "name": "Demons sky",
+        "colors": ["#cf3232", "#30aae3"]
+    },
+    {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
     }
